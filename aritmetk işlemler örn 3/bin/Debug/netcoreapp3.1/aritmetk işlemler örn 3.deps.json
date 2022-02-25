@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aritmetk işlemler örn 3/1.0.0": {
+        "runtime": {
+          "aritmetk işlemler örn 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aritmetk işlemler örn 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

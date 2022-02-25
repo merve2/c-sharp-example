@@ -1,0 +1,14 @@
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.AssemblyInfoInputs.cache
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.AssemblyInfo.cs
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.exe
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.deps.json
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.runtimeconfig.json
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.runtimeconfig.dev.json
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.dll
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\bin\Debug\netcoreapp3.1\aritmetk işlemler örn 3.pdb
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.dll
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.pdb
+C:\Users\merve\source\repos\aritmetk işlemler örn 3\aritmetk işlemler örn 3\obj\Debug\netcoreapp3.1\aritmetk işlemler örn 3.genruntimeconfig.cache
